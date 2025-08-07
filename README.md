@@ -23,4 +23,5 @@
   <li>Semântico com header e footer</li>
   <li>:link e :visited utilizado</li>
   <li>float e clear: both utilizado</li>
+  <li>arquitetura simples de projeto</li>
 </ul>
