@@ -21,4 +21,6 @@
   <li>Desenvolvido de forma muito simples</li>
   <li>Conteudo Lateral</li>
   <li>Semântico com header e footer</li>
+  <li>:link e :visited utilizado</li>
+  <li>float e clear: both utilizado</li>
 </ul>
